@@ -38,9 +38,9 @@ Choosing the right career path is a significant challenge for high school studen
 
 Join us in shaping the future of career mentorship! Clone the repository and dive into the code. Explore our technologies and contribute to the evolution of MentorMinds.
 
-```bash
-    git clone https://github.com/arfazkhan/MentorMinds.git
-    cd MentorMinds
+    ```bash
+        git clone https://github.com/arfazkhan/MentorMinds.git
+        cd MentorMinds
     
 ## Contribution Guidelines
 Excited to contribute? Check out our Contribution Guidelines to get started. We welcome your expertise and passion in making MentorMinds even more impactful.
